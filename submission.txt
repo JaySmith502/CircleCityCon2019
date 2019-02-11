@@ -1,0 +1,56 @@
+How to reach and teach youth about Cybersecurity (if anybody will let you)
+Talking to kids about online safety and careers in InfoSec seems like a no-brainer and only a matter of carving out time to get your materials together and showing up, amirite? Having tried (and tried, and tried), and failed and somewhat succeeded in getting in front of high school students, I'd like to share some of the challenges, gatekeepers and pitfalls in engaging educators and parents in what would seem like a slam dunk. 
+Engaging young people in this field is crucial to it's future as well as their future career viability and hopefully unpacking some of the challenges I've encountered can help others who wish to expand their sphere and make an impact to get over these hurdles. In essence, we have to hack our way in, and although I can't possibly provide a step-by-step for doing so in every area, I have a few battle-tested methods that might save some aggravation.
+Category
+Talk
+Detailed Outline
+#Intro/Who am I? (3 min)
+#Importance of InfoSec education and training for high school youth. (5 min) 
+* Diminishing of traditional jobs 
++ Truck Drivers, Factory/Warehouse, white collar jobs 
+* Online safety/Password Security/CyberBullying 
+* Influencing ethics 
++ Teens can (and will) learn how to hack if they want to 
++ Youtube, Reddit, etc 
++ Responsible training/messaging can help keep them on a path to less jail
+#History of this talk subject (10 min) 
+* DerbyCon 2017 
++ Hackers In Education & Hackers for Charity 
++ Ben0xA, Rob Fuller, Johnny Long, Chris Sanders...
+#First stabs and misses (10 min - humorous and sad) 
+* Local Law Enforcement (my friends!) 
++ Presumption == death 
++ "Dead Letter Office" Email addresses 
+* Public School Districts 
++ Initial excitement -- followed by expert level ghosting 
++ Conversation with GenCyber Director in LA (Honeypot) 
++ Defense in Depth keeps the hacker (me) befuddled 
+* Private Schools 
++ More Zero Trust Networking keeping me at bay 
+* State Law Enforcement 
++ Might as well have tried to call the my Ancestors
+#Fallback, Regroup and Pivot (5 min - less sad) 
+* Sorry Law Enforcement, need to focus efforts and you blew me off with extreme prejudice 
+* Public Schools (narrow focus) 
++ Hey! We're excited again (Hello Lucy and football, let's play!) 
++ Remember that ghosting, we're sorry, can we make it up to you with a less egregious blowoff? 
+* Private Schools (narrow focus) 
++ Success?!? 
++ 3 meetings later and we have liftoff!
+#The Talk (5 min - FINALLY) 
+* All Female 9th Grade Technology Classes 
++ Online hygiene & Cyberbullying and Social Media Talks 
++ Great student engagement! Teachers impressed and happy! 
++ Two sessions, feeling pumped ready to ride the momentum! 
++ Wrap up, send follow up emails thanking effusively for the opportunity...... 
++ Ghosted (WTAF?!?) Is it me?!? It's me isn't it?
+#Second Opportunity? (5 min) 
++ Engagement from another school out of the blue! 
++ Face to face, very promising 
++ Timeline for scheduling provided by school 
++ Who can guess what happens next? (yep, ghosted)
+#Takeaways and looking forward (5 min) 
++ Plans for future engagements 
++ Son starts HS next year (Insider 'threat') 
++ Summer 'Camps' at local hackerspace
+#Questions? Thanks!
